@@ -291,7 +291,7 @@ This project is private and proprietary. All rights reserved.
 
 For questions, issues, or feature requests:
 
-- 📧 **Email**: [support@stimi.com](mailto:support@stimi.com)
+- 📧 **Email**: [mhoang.ly7@gmail.com](mailto:mhoang.ly7@gmail.com)
 - 💬 **Issues**: Create a GitHub issue
 - 📖 **Documentation**: Check the wiki
 
